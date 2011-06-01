@@ -1,0 +1,18 @@
+{
+  "name": "js-reflection",
+  "description": "experimental playground for adding metadata to Javascript (like cC# custom attributes)",
+  "version": "0.0.0",
+  "homepage": "http://demetriusj.com/tagged/js-reflection-git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:demetriusj/js-reflection.git"
+  },
+  "author": "Demetrius Johnson <contact@demetriusj.com> (demetriusj.com)",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
